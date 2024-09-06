@@ -1,0 +1,10 @@
+selenium>=4.2.0
+yt-dlp
+bs4
+pycryptodome
+appdirs
+py7zr
+rich>=13.0.0
+easygui
+questionary
+requests
