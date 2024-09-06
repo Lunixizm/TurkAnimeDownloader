@@ -1,9 +1,4 @@
 # TurkAnimeDownloader
-[![GitHub all releases](https://img.shields.io/github/downloads/kebablord/turkanime-indirici/total?style=flat-square)](https://github.com/KebabLord/turkanime-indirici/releases/latest)
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/kebablord/turkanime-indirici?style=flat-square)](https://github.com/kebablord/turkanime-indirici/releases/latest/download/turkanimu.exe)
-[![Downloads](https://static.pepy.tech/personalized-badge/turkanime-cli?period=total&units=international_system&left_color=grey&right_color=orange&left_text=Pip%20Installs)](https://pepy.tech/project/turkanime-cli)
-[![Pypi version](https://img.shields.io/pypi/v/turkanime-cli?style=flat-square)](https://pypi.org/project/turkanime-cli/)
-
 Türkanime için video oynatıcı, indirici ve kütüphane. İtinayla her bölümü indirir & oynatır.
  - Yığın bölüm indirebilir, indirmeye kaldığı yerden devam edebilir.
  - Animu izleyebilir, izlerken kaydedebilir ve kaldığı dakikadan devam edebilir.
